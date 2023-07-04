@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+}
+
+.heading {
+    font-size: 52px;
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.sub-head {
+    color: #3e4c59;
+}
+
+.clock {
+    height: 40px;
+    width: 40px;
+}
+
+.quote-input-container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    border-radius: 10px;
+    background-color: #f3eaff;
+}
+
+.quote {
+    font-size: 18px;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: white;
+}
+
+.reset-button {
+    background-color: white;
+    color: #323f4b;
+}
+
+.result-text {
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.seconds {
+    font-size: 34px;
+    color: #323f4b;
+}
